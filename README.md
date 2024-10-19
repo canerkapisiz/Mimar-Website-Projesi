@@ -5,6 +5,7 @@
 
 ## Bu Depodaki Proje İçeriği
  * Display ile Mimar Projesi
+ * Flexbox ile Mimar Projesi
     
     
 
