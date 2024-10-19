@@ -9,4 +9,6 @@
     
 
 ## Website Görselleri
-![](Photos/photo1.png) | ![](VideosAndPhotos/TetrisKlip2.gif)
+Photo 1 | Photo 2 | Photo 3 | Photo 4 |
+------------ | ------------ | ------------ | ------------ | 
+![](Photos/photo1.png) | ![](Photos/photo2.png) | ![](Photos/photo3.png) | ![](Photos/photo4.png) |
