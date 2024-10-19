@@ -10,6 +10,6 @@
     
 
 ## Website Görselleri
-Photo 1 | Photo 2 | Photo 3 | Photo 4 |
------------- | ------------ | ------------ | ------------ | 
-![](Photos/photo1.png) | ![](Photos/photo2.png) | ![](Photos/photo3.png) | ![](Photos/photo4.png) |
+Photo 1 | Photo 2 | Photo 3 | Photo 4 | Photo 5 | Photo 6 |
+------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
+![](Photos/photo1.png) | ![](Photos/photo2.png) | ![](Photos/photo3.png) | ![](Photos/photo4.png) | ![](Photos/photo5.png) | ![](Photos/photo6.png) |
