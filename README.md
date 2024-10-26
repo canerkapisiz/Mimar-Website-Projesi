@@ -6,6 +6,7 @@
 ## Bu Depodaki Proje İçeriği
  * Display ile Mimar Projesi
  * Flexbox ile Mimar Projesi
+ * CSS Grid ile Mimar Projesi
     
     
 
@@ -13,3 +14,7 @@
 Photo 1 | Photo 2 | Photo 3 | Photo 4 | Photo 5 | Photo 6 |
 ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
 ![](Photos/photo1.png) | ![](Photos/photo2.png) | ![](Photos/photo3.png) | ![](Photos/photo4.png) | ![](Photos/photo5.png) | ![](Photos/photo6.png) |
+
+Photo 7 | Photo 8 | Photo 9 | Photo 10 | Photo 11 | Photo 12 |
+------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
+![](Photos/photo7.png) | ![](Photos/photo8.png) | ![](Photos/photo9.png) | ![](Photos/photo10.png) | ![](Photos/photo11.png) | ![](Photos/photo12.png) |
